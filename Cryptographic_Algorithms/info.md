@@ -1,6 +1,6 @@
 # Cryptographic Algorithms
 
-These algorithms are fundamental for ensuring secure communication and protecting data confidentiality and integrity. We'll explore the categories you've listed and touch upon the principles behind some of the prominent algorithms.
+These algorithms are fundamental for ensuring secure communication and protecting data confidentiality and integrity. We'll explore the categories listed and touch upon the principles behind some of the prominent algorithms.
 
 **The Core Goal: Security**
 
