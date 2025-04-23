@@ -23,9 +23,3 @@
         * **Cooling:** The `temperature` is reduced by multiplying it with the `cooling_rate`. This gradually decreases the probability of accepting worse solutions, allowing the algorithm to converge towards a minimum.
         * The current state is recorded in the `history`.
     * **Return:** The algorithm returns the `best_solution` found, its `best_energy`, and the `history` of the process.
-
-**How to Run:**
-
-Save this code as a Python file (e.g., `simulated_annealing_standard.py`) and run it. You should see the "optimal" solution and its value. Keep in mind that because it's a stochastic algorithm, the result might vary slightly between runs. You can experiment with the `initial_temperature`, `cooling_rate`, `num_iterations`, and `step_size` to see how they affect the performance.
-
-This implementation provides a basic understanding of how Simulated Annealing works using only standard Python libraries. The `scipy.optimize.dual_annealing` function is a more sophisticated version that often performs better in practice.
