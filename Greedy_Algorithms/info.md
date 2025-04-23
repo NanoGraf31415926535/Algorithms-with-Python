@@ -1,4 +1,6 @@
-**Greedy Algorithms**. These algorithms make locally optimal choices at each step with the hope of finding a global optimum. The strategy is to pick the choice that seems best at the moment, without considering the long-term consequences. While this approach is often simple and efficient, it doesn't always guarantee the optimal solution for all problems.
+# Greedy Algorithms 
+
+These algorithms make locally optimal choices at each step with the hope of finding a global optimum. The strategy is to pick the choice that seems best at the moment, without considering the long-term consequences. While this approach is often simple and efficient, it doesn't always guarantee the optimal solution for all problems.
 
 **Key Characteristics of Greedy Algorithms:**
 

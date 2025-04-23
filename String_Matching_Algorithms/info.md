@@ -1,4 +1,6 @@
-**String Matching Algorithms**. These algorithms are designed to find occurrences of a specific pattern (a short string) within a larger text (a longer string). This is a fundamental problem in computer science with applications in text editors, search engines, bioinformatics (finding DNA sequences), network security (intrusion detection), and many other areas.
+# String Matching Algorithms
+
+These algorithms are designed to find occurrences of a specific pattern (a short string) within a larger text (a longer string). This is a fundamental problem in computer science with applications in text editors, search engines, bioinformatics (finding DNA sequences), network security (intrusion detection), and many other areas.
 
 Here's a breakdown of some common and important string matching algorithms:
 

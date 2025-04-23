@@ -1,4 +1,6 @@
-**Comparison-based Sorting Algorithms**. As the name suggests, these algorithms sort a collection of items by comparing pairs of elements and deciding their relative order. They rely on the ability to determine if one element is less than, equal to, or greater than another.
+# Comparison-based Sorting Algorithms 
+
+As the name suggests, these algorithms sort a collection of items by comparing pairs of elements and deciding their relative order. They rely on the ability to determine if one element is less than, equal to, or greater than another.
 
 **1. Bubble Sort:**
 

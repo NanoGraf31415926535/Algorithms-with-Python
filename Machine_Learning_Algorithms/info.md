@@ -1,5 +1,5 @@
 
-**The Big Picture: Learning from Data**
+# The Big Picture: Learning from Data
 
 At its heart, machine learning is about enabling computers to learn patterns and make predictions or decisions based on data. Unlike traditional programming where you explicitly tell the computer what to do in every situation, machine learning algorithms learn the "rules" from the data itself. This opens up incredible possibilities for tasks like image recognition, natural language processing, and even predicting future trends.
 

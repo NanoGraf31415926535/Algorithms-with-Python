@@ -1,4 +1,6 @@
-**Divide and Conquer Algorithms**. This is a powerful algorithmic paradigm that solves a problem by recursively breaking it down into smaller subproblems of the same type until these subproblems become simple enough to be solved directly. The solutions to the subproblems are then combined to solve the original problem.
+# Divide and Conquer Algorithms 
+
+This is a powerful algorithmic paradigm that solves a problem by recursively breaking it down into smaller subproblems of the same type until these subproblems become simple enough to be solved directly. The solutions to the subproblems are then combined to solve the original problem.
 
 **Core Principles of Divide and Conquer:**
 

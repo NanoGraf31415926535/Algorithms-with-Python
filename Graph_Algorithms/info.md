@@ -1,4 +1,6 @@
-**Graph Algorithms**. Graphs are powerful data structures used to model relationships between objects. They consist of **nodes** (or vertices) and **edges** that connect these nodes. Graph algorithms are designed to solve various problems involving these relationships, such as finding paths, determining connectivity, and analyzing network structures.
+# Graph Algorithms 
+
+Graphs are powerful data structures used to model relationships between objects. They consist of **nodes** (or vertices) and **edges** that connect these nodes. Graph algorithms are designed to solve various problems involving these relationships, such as finding paths, determining connectivity, and analyzing network structures.
 
 **1. Graph Traversal Algorithms:** These algorithms are used to visit and explore all the nodes in a graph.
 

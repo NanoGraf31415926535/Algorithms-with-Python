@@ -1,4 +1,6 @@
-**Searching Algorithms**. These algorithms are designed to find a specific element or determine its absence within a collection of data. The efficiency and suitability of a searching algorithm depend heavily on the structure and size of the dataset.
+# Searching Algorithms
+
+These algorithms are designed to find a specific element or determine its absence within a collection of data. The efficiency and suitability of a searching algorithm depend heavily on the structure and size of the dataset.
 
 **1. Linear Search (Sequential Search):**
 

@@ -1,4 +1,6 @@
-**Geometric Algorithms**. These algorithms deal with geometric objects such as points, lines, polygons, and higher-dimensional shapes. They are crucial in various fields, including computer graphics, robotics, geographic information systems (GIS), computer-aided design (CAD), and computational geometry.
+# Geometric Algorithms 
+
+These algorithms deal with geometric objects such as points, lines, polygons, and higher-dimensional shapes. They are crucial in various fields, including computer graphics, robotics, geographic information systems (GIS), computer-aided design (CAD), and computational geometry.
 
 **Fundamental Geometric Objects and Operations:**
 

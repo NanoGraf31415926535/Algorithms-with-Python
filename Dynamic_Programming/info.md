@@ -1,4 +1,6 @@
-**Dynamic Programming (DP)**! This is a powerful algorithmic technique for solving complex problems by breaking them down into smaller, overlapping subproblems. The key idea behind DP is to solve each subproblem only once and store its solution (usually in a table) to avoid redundant computations. This approach can significantly improve the efficiency of algorithms, especially for problems with optimal substructure and overlapping subproblems.
+# Dynamic Programming (DP) 
+
+This is a powerful algorithmic technique for solving complex problems by breaking them down into smaller, overlapping subproblems. The key idea behind DP is to solve each subproblem only once and store its solution (usually in a table) to avoid redundant computations. This approach can significantly improve the efficiency of algorithms, especially for problems with optimal substructure and overlapping subproblems.
 
 Let's delve deeper into the concepts and characteristics of Dynamic Programming:
 
