@@ -30,7 +30,7 @@ def _merge_dc(left, right):
     return merged
 
 def quick_sort_dc(data):
-    """Sorts a list using the Quick Sort algorithm (Divide and Conquer)."""
+    """Sorts a list using the Quick Sort algorithm (Divide and Conquer)"""
     if len(data) <= 1:
         return data
     pivot = data[len(data) // 2]
