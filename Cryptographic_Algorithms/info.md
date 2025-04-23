@@ -11,7 +11,7 @@ Cryptographic algorithms aim to achieve several security objectives:
 * **Authentication:** Verifying the identity of the communicating parties.
 * **Non-repudiation:** Preventing a sender from denying that they sent a message.
 
-Let's look at the categories you've mentioned:
+Let's look at the categories we've mentioned:
 
 **1. Symmetric-key Cryptography: One Key to Rule Them All**
 
