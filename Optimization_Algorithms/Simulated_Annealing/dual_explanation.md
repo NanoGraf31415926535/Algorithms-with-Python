@@ -10,5 +10,3 @@
     * `result.success`: A boolean indicating if the algorithm converged to a solution.
     * `result.fun`: The minimum value of the objective function found.
     * `result.x`: An array containing the values of the variables ($x$ and $y$) at which the minimum was found.
-
-To run this code, save it as a Python file (e.g., `simulated_annealing.py`) and execute it. You should see the optimal (or near-optimal) values of $x$ and $y$ that minimize the objective function within the given bounds.
