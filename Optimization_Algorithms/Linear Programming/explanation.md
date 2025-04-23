@@ -13,5 +13,3 @@
     * `result.success`: A boolean indicating if an optimal solution was found.
     * `result.fun`: The optimal value of the objective function (which is the minimum of $-Z$, so we negate it to get the maximum $Z$).
     * `result.x`: An array containing the values of the decision variables ($x$ and $y$) at the optimal solution.
-
-To run this code, save it as a Python file (e.g., `linear_programming.py`) and execute it. You should see the optimal solution and the corresponding values of $x$ and $y$ that maximize the profit.
